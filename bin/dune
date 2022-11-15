@@ -1,0 +1,4 @@
+(executable
+ (public_name Inhabitation)
+ (name main)
+ (libraries Inhabitation))
